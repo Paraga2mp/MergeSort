@@ -1,0 +1,41 @@
+w0604361	Lambrecht	Burk	8 Dakota CircletSaskatoon	ON	F3U-4C8	873-376-0344	F	23	3	sales	N	13.66
+w0309720	Buzek	Trixi	65 Independence PlacetBrampton	NS	X8H-8U5	552-268-1002	M	63	6	factory	Y	16.62
+w0815866	Okenfold	Shana	636 Garrison HilltCalgary	SK	K2I-2P3	256-905-9307	F	64	1	sales	Y	16.71
+w0558166	Pelz	Ryun	8612 Southridge AlleytCalgary	MB	T7C-0M7	570-400-0456	F	22	5	sales	N	17.9
+w0062663	Eickhoff	Elke	20 Duke TrailtSaint John	PEI	R0Q-1W1	644-673-0304	F	26	6	factory	N	18.37
+w0805034	Lingner	Yvonne	34 Prentice WaytCalgary	PEI	Z0A-3N0	449-631-9144	F	33	2	office	N	20.34
+w0468226	Darridon	Constantia	525 Redwing ParktDartmouth	ON	B5P-2K1	951-508-7872	F	52	2	sales	Y	20.42
+w0311030	Krienke	Brina	510 Holmberg ParkwaytRegina	ON	I2T-8Q2	504-634-5436	M	37	3	factory	Y	20.85
+w0596726	Brigginshaw	Lyndsie	05163 Armistice AvenuetBrampton	MB	I7X-3D5	623-338-6066	M	55	3	factory	Y	23.2
+w0526228	Mixer	Hartley	1 Victoria AvenuetLaval	BC	K7R-3W4	197-748-4585	F	21	5	office	N	23.28
+w0955731	Tolemache	Donetta	3 Dakota TerracetLaval	ON	Z6W-4G9	110-908-9180	M	63	6	sales	N	23.63
+w0032070	Oldford	Devonna	76 Longview StreettDartmouth	BC	Y5B-1D9	110-121-3875	F	44	1	office	N	24.56
+w0833491	Bricket	Cleopatra	753 Mcguire CircletMississauga	PEI	N1I-4P6	319-668-0959	F	46	2	factory	N	24.67
+w0721566	Marishenko	Georas	27301 Warner WaytMississauga	ON	P1V-5G7	672-701-5094	M	41	1	office	N	25.69
+w0785187	Coonihan	Eba	72773 Fordem ParktHamilton	AB	X5U-7I8	850-543-5372	F	44	5	office	Y	26.17
+w0117972	Freckingham	Welsh	49 Cardinal AlleytMontreal	PEI	Z7D-7X1	679-824-2962	M	24	4	office	N	28.2
+w0983488	Cowling	Joelie	05565 Veith CircletLaval	PEI	C6W-3L8	437-866-0485	M	31	3	sales	Y	28.93
+w0083127	Lebarree	El	9 Pepper Wood PasstRegina	NS	J8V-3U1	649-420-7616	F	18	0	office	Y	29.65
+w0399602	Gerault	Boothe	5853 Sunnyside TrailtMontreal	BC	S5V-7E2	550-685-6333	F	63	4	office	Y	30.18
+w0307220	Chartres	Rustin	8 Fuller ParktLaval	PEI	E5D-9U0	915-565-3070	F	31	3	sales	Y	30.27
+w0846538	Humpatch	Cecil	4575 Ruskin DrivetDartmouth	NF	B6X-8T9	688-122-5229	F	58	2	factory	Y	31.52
+w0097760	De Ambrosis	Jessalin	2762 Moulton PointtToronto	NF	P9C-6R0	313-941-7334	F	43	6	sales	N	31.77
+w0284107	Goldingay	Rozalin	5136 Colorado TrailtToronto	PEI	B4N-8M6	626-638-2433	M	60	2	factory	N	32.28
+w0626699	Kliemke	Lilla	1 Norway Maple TerracetMississauga	SK	I7G-6L2	248-585-9465	M	40	4	office	N	32.3
+w0415470	Scoble	Oralle	4 Nova AvenuetMississauga	NF	X8Y-2M1	687-513-1522	F	58	1	factory	N	32.56
+w0764766	Baudain	Smith	7 Johnson CrossingtHamilton	BC	E0T-5Y9	976-152-5105	F	33	2	office	Y	35.21
+w0647474	Grigori	Teddy	7805 Express CircletDartmouth	NB	P7O-2W4	239-899-3608	F	21	3	office	N	36.93
+w0890301	Greenslade	Sylvan	1376 Tomscot ParkwaytHamilton	NB	M2A-0R1	952-923-6790	M	22	3	factory	N	37.97
+w0946011	Balas	Kenn	19931 Roth LanetSaint John	NF	L8P-3H7	466-674-5530	F	37	3	sales	Y	39.58
+w0718074	Eltone	Clea	430 Forster WaytMississauga	NS	L7Y-9H2	350-424-0127	F	37	5	factory	Y	40.2
+w0321202	Stollwerk	Charil	1 Dapin RoadtMontreal	BC	W4B-3C6	313-664-8837	F	53	4	sales	Y	40.3
+w0343742	Orrum	Clo	61 Barnett CentertLaval	AB	Q2X-2W3	616-746-2431	F	58	6	sales	Y	41.88
+w0183292	Christoffersen	Annabell	5049 Packers PlacetWinnipeg	QC	T5V-4S3	979-386-5576	M	32	2	factory	Y	42.66
+w0105881	Weeks	Brien	6193 Mifflin LanetLaval	ON	U1A-1U6	510-982-6133	M	30	1	sales	N	42.83
+w0466847	Cordy	Rennie	786 Corry CentertMississauga	PEI	D3V-0Y6	632-445-4977	F	39	6	sales	Y	43.11
+w0553664	Sinkin	Shea	93 Scott JunctiontSurrey	SK	M5U-9O4	405-970-7118	M	54	6	office	N	43.2
+w0150815	Doughtery	Tabatha	326 Florence HilltSaskatoon	NS	U8K-8I8	643-594-1006	F	31	1	sales	Y	43.23
+w0526550	Petry	Isabella	110 Sachs CrossingtRegina	ON	E2M-4W5	396-389-1917	F	57	0	factory	N	44.72
+w0311992	Berrington	Arleyne	5 Vidon AvenuetMoncton	AB	R1E-9K0	382-888-7264	F	47	1	office	N	45.04
+w0853324	Aldwich	Lebbie	811 Mccormick ParkwaytHamilton	MB	B2I-4C7	505-427-5673	M	39	4	office	Y	45.78
+
